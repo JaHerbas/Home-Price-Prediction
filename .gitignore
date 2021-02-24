@@ -29,6 +29,9 @@ MANIFEST
 # .DS_Store
 .DS_Store
 
+# Data Files don't need to go in the repository necessarily
+.csv
+
 # Files containing API keys
 .py
 
